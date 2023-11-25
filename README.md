@@ -68,7 +68,10 @@ to run the web app simply  use
   ![image](https://github.com/MFariz1667/Testing-QA/assets/133950605/b5b8a99f-7745-4e52-b1de-66356f14178b)
   
     kemudian klik link http://127.0.0.1:5000
-    
+    jika berhasil di jalankan
+
+![image](https://github.com/MFariz1667/TESTING-DAN-QA-PERANGKAT-LUNAK/assets/133950605/081ef6b6-87ad-468a-bc13-ea52825a0f1f)
+
 to access swagger use url `localhost:5000/apidocs`
 
     contoh menjalankan local host http://127.0.0.1:5000 dalam web
